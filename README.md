@@ -1,16 +1,28 @@
-# barber_app_without_login
+#  Salon Point
 
-A new Flutter application.
+## Overview
 
-## Getting Started
+Salon Point simplifies appointment booking for salons, offering a user-friendly platform for clients to schedule a wide range of beauty services. With real-time availability, secure payments, and detailed professional profiles, it enhances the salon experience. Clients can effortlessly book appointments and receive timely reminders, while salons manage their schedules efficiently. Join us in revolutionizing the salon industry, where convenience meets beauty for a seamless and satisfying experience.
 
-This project is a starting point for a Flutter application.
+## Steps to setup
 
-A few resources to get you started if this is your first Flutter project:
+   - Clone the repository:
+     ```bash
+     git clone https://github.com/shadahmad7/salon-point.git
+     ```
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+    - Install dependencies:
+     ```bash
+     flutter pub get
+     ```
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+   - Run the development build on Android Emulator:
+     ```bash
+     flutter run
+     ```
+
+
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
