@@ -11,7 +11,7 @@ Salon Point simplifies appointment booking for salons, offering a user-friendly 
      git clone https://github.com/shadahmad7/salon-point.git
      ```
 
-    - Install dependencies:
+   - Install dependencies:
      ```bash
      flutter pub get
      ```
